@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714091661076",
+    "project_id": "faceattendance-209d1",
+    "storage_bucket": "faceattendance-209d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714091661076:android:2ffa863f9009c0824c2401",
+        "android_client_info": {
+          "package_name": "com.nmspayroll.face_attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8wsSZfiZFCl3tg6Ika0-Jn5uSRryKQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
